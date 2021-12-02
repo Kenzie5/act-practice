@@ -1,4 +1,4 @@
-Contributing to the existing repository
+# Contributing to the existing repository
 # download a repository on GitHub to our machine
 git clone git@github.com:Kenzie5/act-practice.git
 
@@ -21,8 +21,8 @@ git commit -m "desc of what was changed"
 
 # push changes to github
 git push --set-upstream origin my-branch
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Contributing to an existing branch on GitHub
+# -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Contributing to an existing branch on GitHub
 
 # update all remote tracking branches, and the currently checked out branch
 git pull
