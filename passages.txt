@@ -1,0 +1,230 @@
+PASSAGE I
+01-15
+45
+Bar Codes: A Linear History
+[1]
+In 1948, graduate (1){students, Norman Woodland
+and Bernard Silver,} took on a problem that had troubled
+retailers for years: how to keep track of store inventories.
+Inspired by the dots and dashes of Morse code, (2){however,}
+Woodland and Silver created a system of lines that could
+encode data. Called a symbology, the pattern created by
+the spacing and widths of the lines encodes information
+by representing different characters.
+[2]
+The first bar code was composed of four white
+lines set at specific (3){distances from each other} on a black
+background. The first line was always present.(4)
+Depending on the presence or absence of the remaining
+three lines, up to seven different arrangements were
+(5){susceptible} and, therefore, seven different encodings.
+Today, twenty-nine white lines (6){making} more than half
+a billion encodings possible.
+[3]
+To create a bar code scanner, Woodland and
+Silver adapted technology from an optical movie sound
+system. Their prototype scanner used a 500-watt bulb, a
+photomultiplier tube (a device that detects light), and an
+oscilloscope (a device that translates electronic signals into
+readable information). Although successful, the (7){concoction}
+was both large and costly. (8){For example,} progress stalled
+until the 1970s, when laser technology (both more compact
+and less expensive) became available.
+[4]
+In today’s scanners, a laser sends light back and forth
+across a bar code. While the black lines absorb the light,
+the white lines reflect (9){it} back at a fixed mirror inside the
+scanner. In this way, the scanner reads the symbology and
+decodes the information.
+[5]
+(10)Today,
+(11){being that there are} one- and
+two-dimensional bar codes using numeric
+and alphanumeric symbologies. Bar codes
+are used not only for a pack of gum or an airline
+ticket, but also for research. In one study, for
+instance, tiny bar codes (12){were placed on bees tracking}
+their activities. Shaping the way we gather, track, and
+share information, (13){we have almost certainly exceeded
+even Woodland and Silver’s expectations.}
+
+PASSAGE II
+16-30
+43
+Glowing on an Adventure
+As I pulled my camera out of my backpack, I felt a
+tap on my arm.
+“No photographs,” whispered the woman next to
+(16){me, pointing} up to the cave ceiling. “The flash will
+make them stop (17){glowing,” she said, whispering.}
+She was referring to the thousands of glowworms
+that clung to the limestone ceiling and, with their radiant
+bodies, flooded the cave in aquamarine light. (18){While}
+I was traveling (19){on} canoe on a group tour through
+the renowned Glowworm Grotto of New Zealand’s
+Waitomo Caves. Were it not for the twinkling
+light of these Arachnocampa luminosa, a species
+unique to New Zealand and abundant in these caves,
+this meandering subterranean passageway would
+(20){feel as though it were downright ensconced in shadows.}
+I sheepishly tucked the camera away and focused
+again on the glowworms. Collectively, they resembled the
+cosmos, a sea of stars in a clear night sky. Beautiful—yet
+what made them glow?
+“Bioluminescence,” the woman said,
+peculiarly sensing my curiosity.(21) A badge
+(22){was} pinned to her shirt indicated she was a
+biochemist, here, I guessed, to research the organism.
+She explained that to attract prey, glowworms (not
+really worms at all, but the larval stage of a fungus
+gnat) emit light through their translucent (23){skin; via} a
+cellular chemical reaction. The cells produce luciferin,
+a chemical pigment that reacts with oxygen to produce
+light that shines through the organism’s tail-end intestine.
+From its mouth, she showed me,
+(24){all glowworms dangle} shimmering silken
+threads glossed in beads of mucus. Cave-dwelling
+insects are (25){trapped in these threads, then reeled in
+like fish on a line, and finally lured by the light.}
+The light responds to environmental factors. The
+sound of splashing water, (26){however,} might signal
+that prey is nearby, causing (27){them} to
+brighten.(28)
+Our trip neared its end. I spotted
+a dragonfly (29){in the cave.} I knew its
+(30){fate,} it would be ensnared, just as I had
+been by the brilliance of these luminescent
+glowworms.
+
+PASSAGE III
+31-45
+35
+A Rose by the Name Antique
+With shears in hand, I clip a thin branch
+from the rosebush in my backyard garden. I place this
+clipping into the (31){basket next to me} and crouch under
+(32){this} again. I snip a few more branches and then rise
+to head to the greenhouse. There, I will deposit these
+clippings in rich soil; roots will take hold, (33){buds will sprout,}
+and a new plant will find a home in my garden.
+My roses are not your average hybrid-tea roses (those
+long-stemmed, special occasion roses with well-formed
+buds). Mine are antique (34){roses, old, or heirloom varieties,}
+that have existed in gardens worldwide for centuries.
+Compared to (35){vibrant hybrid-tea colors,} antique rose colors
+tend to be (36){silenced.} Their stems are also shorter, and their
+buds are a bit droopier. Their fragrance, however, is
+unmatched. And unlike the hybrid-tea whose long stems
+make (37){into} a rosebush that is rather scraggly looking,
+antique rosebushes (38){can be grown in a variety of colors,}
+handsomely landscaping gardens.
+(39){The plant thrives best when it is exposed to six hours
+of direct sunlight daily.} The plant can withstand extreme
+temperatures and survive nearly anywhere. (40){It’s} also easier
+to grow antiques. Cultivating hybrid-teas (41){having involved}
+a process of grafting two species of rose together, but the
+grafted area remains weak and susceptible to viruses.
+Antiques, on the other hand, are less prone to disease
+because they are grown simply by placing cuttings from
+a parent plant into nutrient-rich soil. (42){They require} far less
+pruning, fertilizing, and nurturing than their hybrid-tea
+counterparts, antiques can reportedly survive without any
+care from human hands, (43){a fact that surprises many.}
+[1] I dig small holes in a pot of soil, place each
+clipping a half inch deep, and pack down the soil around
+them. [2] Back in my greenhouse, I strip the clippings
+of all leaves and branches. [3] Then I wait: the roots will
+take hold and, eventually, buds will sprout.(44)
+
+PASSAGE IV
+46-60
+44
+Jeremy Frey, Weaving Heritage Into Modern Art
+[1]
+The winning piece was a basket, (46){it was} eighteen
+inches tall with a curved, vaselike silhouette. [A] It
+was made of ash wood finely woven into bold stripes of
+black and white that ran from its crown to its base. [B]
+In the ninetyyear
+history of the Santa Fe Indian
+(47){Market—the largest Indian art festival in the nation—}the
+2011 event marked the first time a basket won best of
+show. The creator of the piece, thirtythreeyearold
+Passamaquoddy Indian Jeremy Frey from Princeton,
+Maine, (48){the} basket sold at auction for $16,000.
+[2]
+[C] Frey describes his baskets as
+“cutting-edge traditional.” [D] He primarily
+weaves a classic material, wood from the brown
+ash tree, (49){but, unlike most contemporary basketmakers,}
+he harvests, cuts, pounds, dries, and dyes the wood
+himself. (50){Then creating} highly elaborate versions
+of the sturdy utility baskets that have been used
+by (51){generations of Passamaquoddy} fishermen from
+Maine. He honors tradition, but he highlights
+artistic design. For example, his baskets feature
+(52){complex weaving on} areas that are often hidden
+and therefore typically not embellished. Many
+traditional baskets have basic, woven lids.
+Frey’s (53){porcupine quill} lids are often decorated
+with art inlaid on birch (54){bark; as far as lids go,
+I wouldn’t say that’s basic.} And while braids of
+grass (55){are} customarily woven into ash baskets
+(56){to make them better,} Frey incorporates braided
+cedar bark to create striking new textures.
+[3]
+Now that he’s a nationally recognized artist (57){of who}
+has rejuvenated the art of basketry, Frey feels his role
+is to inspire. He’s on the board of the Maine Indian
+Basketmakers Alliance, a group that works to help
+preserve (58){it} by reaching out to young members of Native
+communities in the state. His other goal is to continue to
+(59){stand out.} The woven grass bracelets he saw on a recent
+trip to Hawaii have influenced how he shapes the bases
+of some of his newer baskets, as he finds yet another way
+to make traditional Passamaquoddy weaving something
+spectacularly his own.
+
+PASSAGE V
+61-75
+39
+The Flow of Time
+Nine hundred years (61){ago, Emperor Zhezong of China,}
+ordered the design and construction of a clock
+(62){built to keep time more accurately than other clocks.}
+This would be no simple (63){timepiece and because}
+Chinese dynasties (64){continued} to astrology, they relied
+on complicated clocks that not only kept time but also
+helped track stars, planets, the sun, and the moon. An
+(65){eminent scientist and bureaucrat named Su Song lead}
+Zhezong’s ambitious project.
+(66){Using his expertise in calendrical science,}
+Su Song created a spectacular timepiece (67){housed within}
+an ornate forty-foot-tall tower. At the tower’s top sat an
+armillary (68){sphere, or} a nest of metal rings representing
+celestial reference points such as the horizon and
+the sun’s path—that rotated in sync with the
+earth, enabling precise astronomical observations.
+Inside the tower, a sphere depicting the sky
+revolved to display the stars that were overhead.
+(69){Besides,} below the star sphere, the tower’s open
+sides exposed a detailed model of a five-story pagoda.
+Automated figurines would appear in the pagoda’s
+doorways and ring (70){bells to announce} hours, sunsets,
+seasons, and other chronological events.
+The clock’s inner workings (71){were} equally remarkable.
+Hidden in the tower, a waterwheel eleven feet in diameter
+powered the entire clock. (72){Therefore, water} would pour at
+a constant rate into one of the wheel’s thirty-six buckets.
+When the bucket was full, the water’s weight pulled it
+down, rotating the waterwheel. Then a stop mechanism
+halted the wheel and positioned the next bucket for filling.
+Chinese clockmakers had long used waterwheels, (73){but}
+Su Song’s stop mechanism, which regulated the inertia
+of the waterwheel, represented significant innovation.
+Unfortunately, after Su Song’s clock ran
+for thirty years, invaders stole it. Later the clock
+vanished altogether. It would be a few hundred years
+(74){until with the refinement of mechanical clocks in Europe}
+other clocks (75){approached the complexity} of Su Song’s
+masterpiece.
